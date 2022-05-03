@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GCP.Function.POC": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
